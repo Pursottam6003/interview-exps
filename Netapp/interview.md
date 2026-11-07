@@ -1,0 +1,1 @@
+Recently gave NetApp OA, apparently they now include 2 dsa questions+ 2 video questions about explaining your approach. Can't move to 2nd question before answering first coding question+ it's video explanation.

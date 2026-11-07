@@ -1,0 +1,3 @@
+There are overall 4-5 rounds. The first few rounds will be with Uptime Crew, Intuit's hiring partner who will evaluate all required skills and then the first level of filtration are done here. Once you're done with initial 2-3 rounds (technical + behavioral) then your profile moved to Intuit officially. And Intuit conducts further rounds.
+My rounds are system design and DSA focused. There will be rounds when they specifically ask AI related stuff regarding efficiency and when will you use and when you will avoid it. How it affects and impacts.
+Also Strategic question's are very well judged like tell me about a time.... like this.
